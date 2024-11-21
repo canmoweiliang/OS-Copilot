@@ -1,0 +1,1 @@
+Open an email, and user can read email from three folders: Inbox, Drafts and Sent

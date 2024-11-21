@@ -1,0 +1,1 @@
+Search through each text file in the specified directory to check if they contain the specified word

@@ -1,0 +1,1 @@
+Find a email by index, and user can find email from three folders: Inbox, Drafts and Sent
